@@ -8,11 +8,11 @@
 
 <h1 align="center">Ferramentas Utilizadas</h1>
 
-<p align="justify">Para o desenvolvimento do jogo, foi utilizado exclusivamente Javascript. Aqui aprendi a importar imagens para o projeto, manipula-las com o teclado utilizando funções e também aprendi a automatizar imagens importadas com o uso do for. No curso também aprendi a como organizar melhor o meu código utilizando arquivos diferentes para cada elemento.</p>
+<p align="justify">Para o desenvolvimento do jogo, foi utilizado exclusivamente Javascript. Aqui aprendi a importar imagens para o projeto, manipula-las com o teclado utilizando funções e também aprendi a automatizar imagens importadas com o uso do for. No curso também aprendi a como organizar melhor o meu código utilizando arquivos diferentes.</p>
 
 <h1 align="center">Como Jogar</h1>
 
-<p align="justify">Para jogar apenas é necessário fazer uso das setas para cima e para baixo para movimentar a galinha sem que os carros que passam continuamente batam nela durante o percurso. Caso ela chegue ao outro lado, é computado um ponto para o jogador, mas caso ela bata, perde-se um ponto, tornando a experiência um pouco mais desafiadora para quem joga.</p>
+<p align="justify">Para jogar apenas é necessário fazer uso das setas para cima e para baixo para movimentar a galinha sem que os carros que passam continuamente batam nela durante o percurso. Caso ela chegue ao outro lado, é computado um ponto para o jogador, mas caso ela bata, perde-se um ponto, tornando a experiência um pouco mais desafiadora.</p>
 
 <h1 align="center">Visualização</h1>
 
