@@ -16,4 +16,4 @@
 
 <h1 align="center">Visualização</h1>
 
-<p align="center">O projeto pode ser visto através da <a hrel="https://freeway-beta.vercel.app/">Vercel</a></p>
+<p align="center">O projeto pode ser visto através da <a href="https://freeway-beta.vercel.app/">Vercel</a>.</p>
