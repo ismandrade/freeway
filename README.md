@@ -14,6 +14,10 @@
 
 <p align="justify">Para jogar apenas é necessário fazer uso das setas para cima e para baixo para movimentar a galinha sem que os carros que passam continuamente batam nela durante o percurso. Caso ela chegue ao outro lado, é computado um ponto para o jogador, mas caso ela bata, perde-se um ponto, tornando a experiência um pouco mais desafiadora.</p>
 
+<br>
+
+<p align="center"><img src="https://cdn.cdnlogo.com/logos/j/69/javascript.svg" alt="Logo Javascript" width="8%"></p>
+
 <h1 align="center">Visualização</h1>
 
 <p align="center">O projeto pode ser visto através da <a href="https://freeway-beta.vercel.app/">Vercel</a>.</p>
